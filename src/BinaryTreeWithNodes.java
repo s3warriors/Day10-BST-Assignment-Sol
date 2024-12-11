@@ -16,5 +16,6 @@ public class BinaryTreeWithNodes {
         binaryTree.add(67);
 
         System.out.println("Size of the binary tree: " + binaryTree.getSize());
+        System.out.println("Is 63 present in the tree?: " + binaryTree.search(63));
     }
 }
