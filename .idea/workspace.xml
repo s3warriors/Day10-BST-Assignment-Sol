@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="521f3f23-7222-4b69-9c54-a1d27ad72a92" name="Changes" comment="Implement BST creation with root and basic node insertion logic">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
